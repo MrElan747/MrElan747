@@ -3,7 +3,7 @@
 </a>
 
 <div align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=3+Years+of+Full+Stack+Development;Migrated+.NET+Framework+to+.NET+Core+8;40%25+Performance+Improvement+Achieved;Building+Scalable+Enterprise+Solutions">
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=3++Years+of+Full+Stack+Development;Migrated+.NET+Framework+to+.NET+Core+8;40%25+Performance+Improvement+Achieved;Building+Scalable+Enterprise+Solutions">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=3++Years+of+Full+Stack+Development;Migrated+.NET+Framework+to+.NET+Core+8;40%25+Performance+Improvement+Achieved;Building+Scalable+Enterprise+Solutions" alt="Typing animation">
   </a>
 </div>
