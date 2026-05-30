@@ -123,7 +123,19 @@
 ## 💼 Professional Experience
 
 <details open>
-<summary><b>Associate Software Engineer @ UST</b> | Nov 2023 – Present | Bangalore</summary>
+<summary><b>Software Engineer 2 @ Danaher Corporation (Radiometer)</b> | Feb 2026 – Present | Bangalore</summary>
+
+> **Tech Stack:** .NET Core | C# | Angular | Entity Framework | SQL Server | MongoDB | Azure | Docker
+
+- **Medical Device Software Development:** Building enterprise-scale solutions for healthcare diagnostic systems with stringent compliance requirements
+- **Full-Stack Architecture:** Designing and implementing robust APIs and responsive Angular frontends for real-time medical data processing
+- **Cloud Integration:** Leveraging Azure cloud services for scalable, secure, and compliant healthcare solutions
+- **Agile Delivery:** Contributing to cross-functional teams in fast-paced medical device development cycles
+
+</details>
+
+<details open>
+<summary><b>Associate Software Engineer @ UST</b> | Nov 2023 – Feb 2026 | Bangalore</summary>
 
 > **Tech Stack:** .NET Core 8 | ASP.NET Core | Angular 14–18 | Entity Framework | SQL Server | Docker | NLog
 
@@ -167,6 +179,7 @@
 
 | 🏅 | Achievement | Details |
 |:---|:---|:---|
+| 🌟 | **Danaher Spotlight Award** | Recognized for outstanding technical excellence and contributions at Radiometer |
 | ⭐ | **UST UStar – Super Star Award** | Recognized for outstanding project delivery and performance excellence |
 | ⚡ | **Performance Champion** | Reduced API response time by **85%** (4–6 sec → <1 sec) |
 | 🔄 | **Successful Migration Lead** | Orchestrated zero-downtime migration of legacy .NET Framework to .NET Core 8 |
@@ -217,9 +230,9 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-elango.p747%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:elango.p747@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elango%20Palaniyappan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/elango747)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elango%20Palaniyappan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/MrElan747)
 [![Phone](https://img.shields.io/badge/Phone-%2B91%2063803%2025481-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+916380325481)
-[![GitHub](https://img.shields.io/badge/GitHub-elango747-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/elango747)
+[![GitHub](https://img.shields.io/badge/GitHub-MrElan747-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MrElan747)
 
 </div>
 
@@ -235,6 +248,6 @@
 
 *Built with expertise in enterprise-scale .NET Core 8 + Angular solutions*
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=elango747&color=70A5FD&style=flat-square&label=Profile+Views)
+![Visitor Badge](https://komarev.com/ghpvc/?username=MrElan747&color=70A5FD&style=flat-square&label=Profile+Views)
 
 </div>
