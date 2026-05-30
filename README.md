@@ -106,8 +106,8 @@
 
 ## 📈 Activity Graph
 
-<a href="https://github.com/elango747">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elango747&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+<a href="https://github.com/MrElan747">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrElan747&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
 </a>
 
 ---
@@ -115,7 +115,7 @@
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elango747&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophy Wall" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MrElan747&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophy Wall" width="100%"/>
 </div>
 
 ---
